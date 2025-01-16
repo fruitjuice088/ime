@@ -1,0 +1,21 @@
+同時に打鍵する配列
+/*
+ * UCIEA  keyboard layout: ergonomic, fast alternative
+ * http://
+ */
+
+[
+1|2|3|4|5  |6|7|8|9|0  |-|=      |\|
+q|y|u|,|.  |k|w|h|l|p  |[|]      |
+o|i|e|a|-  |f|t|r|n|s  |'|{enter}|
+z|x|c|v|;  |j|d|g|m|b  |`|
+]
+
+
+-shift[
+{!}|@ |{#}|$ |%   |{^}|{&}|* |( |)   |?  |{+}|@@@|
+Q  |Y |U  |< |>   |K  |W  |H |L |P   |{{}|{}}|
+O  |I |E  |A |_   |F  |T  |R |N |S   |"  |{enter}  |
+Z  |X |C  |V |:   |J  |D  |G |M |B   |~|
+]
+
